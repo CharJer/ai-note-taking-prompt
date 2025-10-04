@@ -8,10 +8,20 @@ In order to not ruin the note - you will follow the rules
 ## Rules for the actual note taking
 - DO NOT use ``` backticks as codeblock
 - Use tilde instead ~~~ at the start and the end of the codeblock
-	  - Format for codeblock
+	- Format for codeblock
 ~~~
-print(Hello World)
+print("Hello World")
 ~~~
 
-Below this line is the user input
+- You will specify the programming language in the codeblock
+	- Sample codeblock for python
+~~~python
+print("Hello World")
+~~~
+	- Sample codeblock for bash
+~~~bash
+echo "Hello World"
+~~~
+
+Below this line is the user input and you will strictly follow the fule above.
 ---
