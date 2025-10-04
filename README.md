@@ -2,7 +2,7 @@
 Overview:
 - Take note the full page of modules especially for learning contents like Hack The Box Academy and TryHackMe Rooms.
 - It supports code block rendering:
-	- Fix the issue of AI breaking the code block by using tilde "~~~" instead of backticks "```"
+	- Fix the issue of AI breaking the codeblock rendering by using tilde "~~~" instead of backticks "```" in codeblocks
 
 ## How to Use?
 - See the ai-note-taking.txt
