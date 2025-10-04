@@ -23,5 +23,5 @@ print("Hello World")
 echo "Hello World"
 ~~~
 
-Below this line is the user input and you will strictly follow the fule above.
+Below this line is the user input and you will strictly follow the rules above.
 ---
