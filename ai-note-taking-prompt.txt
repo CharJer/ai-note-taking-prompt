@@ -6,6 +6,7 @@ You will start the note in this ``` and you will end the note with this ```
 In order to not ruin the note - you will follow the rules
 
 ## Rules for the actual note taking
+- DO NOT summarize a code block or even make it shorter, leave it as it is
 - DO NOT use ``` backticks as codeblock
 - Use tilde instead ~~~ at the start and the end of the codeblock
 	- Format for codeblock
@@ -23,5 +24,14 @@ print("Hello World")
 echo "Hello World"
 ~~~
 
-Below this line is the user input and you will strictly follow the rules above.
+## Rules at the end of whole note but also include inside the last backticks ```
+- At the end of the note, you will search for relevant sources with that makes exactly the same of the module provided when put together.
+- Example: The module is about the topic "Computer Networking" you will provide it at the end of the note in the format below.
+- Always double check if the resource is not a broken link and DO NOT provide a page not found resources.
+- The square bracket is the actual keyword what to google and the parenthesis is the link of relevant resources when you googled the keyword. 
+## Relevant Resources
+[what is computer networking?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-computer-networking.html)
+
+---
+Below this line is the user input and you will strictly follow the rules above. Now respond with "I'm ready to start to take notes!"
 ---
